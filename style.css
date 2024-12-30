@@ -1,0 +1,93 @@
+ .litstyle{
+    list-style: none;
+    font-size: 14px;
+ }
+ .btnn{
+    border-radius: 5px ;
+    border: none;
+    color: white;
+    background-color: blue;
+ }
+ input{
+    background-color: lightgray;
+    border-radius: 5px;
+ }
+ 
+ .sect-top a{
+    font-size: 18px;
+    text-decoration: none;
+ }
+ .sect-top h1{
+    font-size: 60px;
+ }
+ .sect-top p{
+    font-size: 20px;
+ }
+ 
+ .larg-img img{
+    width: 606px;
+    height: 667px;
+ }
+ .features a{
+    text-decoration: none;
+    font-size: 16px;
+ }
+ .features h1{
+    font-size: 36px;
+ }
+ .features p{
+    font-size: 20px;
+ }
+ .certified-course h1{
+    font-size: 20px;
+ }
+ .certified-course p{
+    font-size: 16px;
+ }
+ 
+ .explore h1{
+    font-size: 36px;
+ }
+ .explore p{
+    font-size: 18px;
+ }
+ .explore2 img{
+    width: 567px;
+    height: 446px;
+ }
+
+ .learn h1{
+    font-size: 20px;
+ }
+ .learn p{
+    font-size: 16px;
+ }
+  .whatis h1{
+    font-size: 20px;
+  }
+  .whatis p{
+    font-size: 16px;
+  }
+  .startconnect{
+    font-size: 36px;
+  }
+
+  .getthe h1{
+   font-size: 36px;
+  }
+  .getthe p{
+   font-size: 20px;
+  }
+  .footers h1{
+   font-size: 18px;
+  }
+  .footers p{
+   font-size: 16px;
+  }
+  .footend p{
+   font-size: 13px;
+  }
+
+  .footend p{
+   font-size: 13px;
+  }

@@ -1,0 +1,188 @@
+@media (max-width:1400px) and (min-width:1200px) {
+    .sect-top a{
+        font-size: 16px;
+        text-decoration: none;
+     }
+     .sect-top h1{
+        font-size: 50px;
+     }
+     .sect-top p{
+        font-size: 18px;
+     }
+     
+     .larg-img img{
+        width: 536px;
+        height: 597px;
+     }
+}
+
+@media (max-width:1200px) and (min-width:992px) {
+    .sect-top a{
+        font-size: 16px;
+        text-decoration: none;
+     }
+     .sect-top h1{
+        font-size: 50px;
+     }
+     .sect-top p{
+        font-size: 18px;
+     }
+     
+     .larg-img img{
+        width: 536px;
+        height: 597px;
+     }
+
+     .certified-course p{
+        font-size: 14px;
+     }
+     
+}
+
+
+@media (max-width:992px) and (min-width:768px) {
+    .sect-top a{
+        font-size: 14px;
+        text-decoration: none;
+     }
+     .sect-top h1{
+        font-size: 46px;
+     }
+     .sect-top p{
+        font-size: 16px;
+     }
+     
+     .larg-img img{
+        width: 536px;
+        height: 597px;
+     }
+     .startconnect{
+        font-size: 30px;
+      }
+}
+
+
+@media (max-width:768px) and (min-width:577px) {
+    .sect-top a{
+        font-size: 12px;
+        text-decoration: none;
+     }
+     .sect-top h1{
+        font-size: 36px;
+     }
+     .sect-top p{
+        font-size: 14px;
+     }
+     
+     .larg-img img{
+        width: 536px;
+        height: 597px;
+     }
+
+     .explore2 img{
+        width: 467px;
+        height: 446px;
+     }
+     .startconnect{
+        font-size: 26px;
+      }
+      .getthe h1{
+         font-size: 30px;
+        }
+        .getthe p{
+         font-size: 16px;
+        }
+     
+}
+
+
+@media (max-width:576px) and (min-width:0px) {
+     
+ .sect-top a{
+    font-size: 10px;
+    text-decoration: none;
+ }
+ .sect-top h1{
+    font-size: 30px;
+ }
+ .sect-top p{
+    font-size: 12px;
+ }
+ 
+ .larg-img img{
+    width: 306px;
+    height:367px;
+ }
+
+
+ .features a{
+    text-decoration: none;
+    font-size: 10px;
+ }
+ .features h1{
+    font-size: 16px;
+ }
+ .features p{
+    font-size: 12px;
+ }
+
+ .certified-course h1{
+    font-size: 16px;
+ }
+ .certified-course p{
+    font-size: 12px;
+ }
+
+ .explore h1{
+    font-size: 18px;
+ }
+ .explore p{
+    font-size: 12px;
+ }
+  
+ .explore2 img{
+    width: 367px;
+    height: 346px;
+ }
+
+ .learn h1{
+    font-size: 18px;
+ }
+ .learn p{
+    font-size: 12px;
+ }
+
+ .whatis h1{
+    font-size: 18px;
+  }
+  .whatis p{
+    font-size: 12px;
+  }
+  .heigh-img img{
+    width: 325px;
+    height: 447px;
+  }
+
+  .startconnect{
+    font-size: 18px;
+  }
+
+  .getthe h1{
+   font-size: 18px;
+  }
+  .getthe p{
+   font-size: 12px;
+  }
+
+  .footeimg img{
+   width: 143px;
+   height: 294px;
+  }
+
+  .footers h1{
+   font-size: 18px;
+  }
+  .footers p{
+   font-size: 12px;
+  }
+}
